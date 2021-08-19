@@ -1,6 +1,6 @@
 # Ask @Brunozhon Anything!
 
-A repository to ask [@Brunozhon](https://github.com/Brunozhon) anything.
+A repository to ask [@Brunozhon](https://github.com/Brunozhon) anything. It is forked from [@holman's ama repo](https://github.com/holman/ama).
 
 
 ### Ask a question
